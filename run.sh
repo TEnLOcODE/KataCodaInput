@@ -1,2 +1,2 @@
-echo "Hello Please enter username: " username
-echo "Hello $username, Welcome to myao"
+echo "Hello Please enter username: " USV
+echo "Hello " $USV ", Welcome to myao"
